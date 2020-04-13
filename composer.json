@@ -1,0 +1,20 @@
+{
+    "name": "mikeludemann/php-class-namespace-use",
+    "description": "Understanding class and namespace and use in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Ludemann",
+            "email": "mike-ludemann@hotmail.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fortawesome/font-awesome": "^5.13",
+        "twig/twig": "^3.0",
+        "smarty/smarty": "^3.1",
+        "phpunit/phpunit": "^9.1",
+        "symfony/symfony": "^5.0"
+    }
+}
